@@ -13,7 +13,7 @@
 | mellohi            | Zilvermeer                   |
 | stal               | Konijneneten                 |
 | strad              | Kanonbal                     |
-| ward               | Twijfel niet en dans let Mij |
+| ward               | Twijfel niet en dans met Mij |
 | 11                 | De Wifi Song                 |
 | wait               | De kat zat op de Krant       |
 | otherside          | Tot je weer van me houdt     |
